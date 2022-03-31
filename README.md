@@ -34,7 +34,7 @@
     <img src="https://user-images.githubusercontent.com/97297260/160990952-dfb54eaa-a502-4656-8632-3c14c3cf85ca.png" alt="javascript" width="40" height="40"/> 
   </a> 
   <a href="https://reactjs.org/" target="_blank"> 
-    <img src="https://user-images.githubusercontent.com/97297260/160991430-7ed18512-9b47-40a4-8b69-1ded5d0c257d.png" alt="linux" width="40" height="40"/> 
+    <img src="https://user-images.githubusercontent.com/97297260/160991430-7ed18512-9b47-40a4-8b69-1ded5d0c257d.png" alt="linux" width="60" height="40"/> 
   </a> 
   <a href="https://getbootstrap.com/" target="_blank"> 
     <img src="https://user-images.githubusercontent.com/97297260/160991600-6b16827b-9307-43d5-a743-5eda31a796b8.png" alt="git" width="40" height="40"/> 
