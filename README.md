@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Subin <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 <h3 align="center">A passionate front-end developer who loves building user-friendly websites and web apps</h3>
 
-- 🔭 I’m currently working on my **Python Course**
+- 🔭 I’m currently working on my **Advance Frameworks**
 
 - 🌱 I’m currently learning **React, CSS/JS animations**
 
