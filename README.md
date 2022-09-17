@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm Subin <img height="40" src="https://user-images.githubusercontent.com/97297260/160992305-b6ef331f-4575-4e38-bf53-0d8399bb8d98.gif"></h1>
-<h3 align="center">A passionate front-end developer who loves building user-friendly websites and web apps</h3>
+<h3 align="center">A passionate full-stack developer who loves building user-friendly websites and web apps</h3>
 
 - 🔭 I’m currently working on **Advance Frameworks**
 
